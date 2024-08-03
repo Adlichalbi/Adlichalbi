@@ -9,6 +9,9 @@ Hi there! I'm **Adli Chalbi**, a passionate **Full Stack Developer** with a soli
 
 - **Master's Degree in Data Science** (Ongoing)  
   Higher Institute of Applied Science and Technology of Gafsa, Tunisia
+  
+ - **Software Engineering** (2nd Year, Ongoing)  
+  Private Higher School of Engineering of Gafsa, Tunisia
 
 ## 🚀 What I Do
 
