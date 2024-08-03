@@ -1,6 +1,6 @@
 # 🌟Adli Chalbi - Full Stack Developer & Data Science Enthusiast🌟
 
-Hi there! I'm Adli Chalbi, a passionate Full Stack Developer with a solid foundation in IT and a keen interest in Data Science. Currently pursuing a Master’s degree, I'm committed to building exceptional web applications and exploring data-driven insights.
+Hi there! I'm **Adli Chalbi**, a passionate **Full Stack Developer** with a solid foundation in IT and a keen interest in Data Science. Currently pursuing a Master’s degree, I'm committed to building exceptional web applications and exploring data-driven insights.
 
 ## 🎓 Education
 
