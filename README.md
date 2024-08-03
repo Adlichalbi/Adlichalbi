@@ -21,3 +21,5 @@ Hi there! I'm **Adli Chalbi**, a passionate **Full Stack Developer** with a soli
 ## 🌱 Continuous Learning
 
 I’m dedicated to deepening my expertise in **React** and **Next.js**, along with advancing my knowledge of **TypeScript**. I believe in continuous improvement and regularly challenge myself by taking on new projects and exploring the latest tools and technologies in the development landscape.
+
+![Adli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adlichalbi&show_icons=true&theme=transparent)
