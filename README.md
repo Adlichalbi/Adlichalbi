@@ -1,30 +1,21 @@
-# 🌟Adli Chalbi - Full Stack Developer & Data Science Enthusiast🌟
-
-Hi there! I'm **Adli Chalbi**, a 23-year-old passionate **Full Stack Developer** with a solid foundation in IT and a keen interest in Data Science. I hold a Bachelor's degree in IT and am currently pursuing a Master’s degree in Data Science while also studying Software Engineering. I’m committed to building exceptional web applications and exploring data-driven insights.
-
+# 👋Hi,I'm Adli!
+Hi there! I'm Adli Chalbi, a 23-year-old passionate Full Stack Developer with a solid foundation in IT and a keen interest in Data Science. I hold a Bachelor's degree in IT and am currently pursuing a Master’s degree in Data Science while also studying Software Engineering. I’m committed to building exceptional web applications and exploring data-driven insights.<br><br>🎓 Education<br>Bachelor's Degree in IT<br>Higher Institute of Technological Studies of Gafsa, Tunisia<br><br>Master's Degree in Data Science (Ongoing)<br>Higher Institute of Applied Science and Technology of Gafsa, Tunisia<br><br>Software Engineering (2nd Year, Ongoing)<br>Private Higher School of Engineering of Gafsa, Tunisia<br><br>🚀 What I Do<br>Frontend Development: I have a strong command of HTML, CSS, and JavaScript. I specialize in building dynamic user interfaces and single-page applications (SPAs) using modern frameworks like React and Next.js. My focus is on creating responsive, user-friendly web experiences.<br><br>Backend Development: My backend expertise includes Node.js, Express.js, MySQL, MongoDB, and Go. I enjoy building efficient, scalable server-side applications, developing RESTful APIs, and handling complex data operations.<br><br>Full Stack Development: With a comprehensive understanding of both frontend and backend technologies, I integrate these to deliver complete, robust web applications. I’m passionate about writing clean, maintainable code and continuously refining my development practices.<br><br>🌱 Continuous Learning<br>I’m dedicated to deepening my expertise in React and Next.js, along with advancing my knowledge of TypeScript. I believe in continuous improvement and regularly challenge myself by taking on new projects and exploring the latest tools and technologies in the development landscape.
 
 
-## 🎓 Education
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adli.chalbi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adli-chalbi-370448187) 
 
-- **Bachelor's Degree in IT**  
-  Higher Institute of Technological Studies of Gafsa, Tunisia
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adlichalbi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adlichalbi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adlichalbi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **Master's Degree in Data Science** (Ongoing)  
-  Higher Institute of Applied Science and Technology of Gafsa, Tunisia
-  
- - **Software Engineering** (2nd Year, Ongoing)  
-  Private Higher School of Engineering of Gafsa, Tunisia
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adlichalbi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 What I Do
+---
+[![](https://visitcount.itsvg.in/api?id=Adlichalbi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Frontend Development:** I have a strong command of HTML, CSS, and JavaScript. I specialize in building dynamic user interfaces and single-page applications (SPAs) using modern frameworks like **React** and **Next.js**. My focus is on creating responsive, user-friendly web experiences.
-
-- **Backend Development:** My backend expertise includes **Node.js**, **Express.js**, **MySQL**, **MongoDB**, and **Go**. I enjoy building efficient, scalable server-side applications, developing RESTful APIs, and handling complex data operations.
-
-- **Full Stack Development:** With a comprehensive understanding of both frontend and backend technologies, I integrate these to deliver complete, robust web applications. I’m passionate about writing clean, maintainable code and continuously refining my development practices.
-
-## 🌱 Continuous Learning
-
-I’m dedicated to deepening my expertise in **React** and **Next.js**, along with advancing my knowledge of **TypeScript**. I believe in continuous improvement and regularly challenge myself by taking on new projects and exploring the latest tools and technologies in the development landscape.
-
-![Adli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adlichalbi&show_icons=true&theme=transparent)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
