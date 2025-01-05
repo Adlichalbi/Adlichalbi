@@ -6,12 +6,6 @@
 
 ---
 
-## 🏆 Top Languages
-**JavaScript** and **Python** are my primary go-to languages for:
-- **Front-end & Back-end Development**
-- **Data Science & AI/ML Projects**
-
----
 
 ## 💻 Programming Languages
 <p>
