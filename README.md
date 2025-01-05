@@ -1,21 +1,130 @@
-# 👋Hi,I'm Adli!
-Hi there! I'm Adli Chalbi, a 23-year-old passionate Full Stack Developer with a solid foundation in IT and a keen interest in Data Science. I hold a Bachelor's degree in IT and am currently pursuing a Master’s degree in Data Science while also studying Software Engineering. I’m committed to building exceptional web applications and exploring data-driven insights.<br><br>🎓 Education<br>Bachelor's Degree in IT<br>Higher Institute of Technological Studies of Gafsa, Tunisia<br><br>Master's Degree in Data Science (Ongoing)<br>Higher Institute of Applied Science and Technology of Gafsa, Tunisia<br><br>Software Engineering (2nd Year, Ongoing)<br>Private Higher School of Engineering of Gafsa, Tunisia<br><br>🚀 What I Do<br>Frontend Development: I have a strong command of HTML, CSS, and JavaScript. I specialize in building dynamic user interfaces and single-page applications (SPAs) using modern frameworks like React and Next.js. My focus is on creating responsive, user-friendly web experiences.<br><br>Backend Development: My backend expertise includes Node.js, Express.js, MySQL, MongoDB, and Go. I enjoy building efficient, scalable server-side applications, developing RESTful APIs, and handling complex data operations.<br><br>Full Stack Development: With a comprehensive understanding of both frontend and backend technologies, I integrate these to deliver complete, robust web applications. I’m passionate about writing clean, maintainable code and continuously refining my development practices.<br><br>🌱 Continuous Learning<br>I’m dedicated to deepening my expertise in React and Next.js, along with advancing my knowledge of TypeScript. I believe in continuous improvement and regularly challenge myself by taking on new projects and exploring the latest tools and technologies in the development landscape.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adli.chalbi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adli-chalbi-370448187) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adlichalbi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adlichalbi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adlichalbi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adlichalbi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Hi 👋, I'm Adli Chalbi</h1>
+<p align="center">
+  <strong>Software Engineer & AI/ML Enthusiast 🚀</strong><br/>
+  Building the future, one line of code at a time.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adlichalbi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Top Languages
+**JavaScript** and **Python** are my primary go-to languages for:
+- **Front-end & Back-end Development**
+- **Data Science & AI/ML Projects**
+
+---
+
+## 💻 Programming Languages
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ Frameworks & Libraries
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42"/>
+  </a>
+  <a href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42"/>
+  </a>
+  <a href="https://reactnative.dev/img/header_logo.svg" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42"/>
+  </a>
+</p>
+
+---
+
+## 🗄️ Databases & Storage
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42"/>
+  </a>
+</p>
+
+---
+
+## 🤖 AI/ML Tools
+<p>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Other Tools
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
+  </a>
+</p>
+
+---
+
+## ⚡️ Where to Find Me
+<p>
+  <a href="https://www.linkedin.com/in/adlichalbi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/adli.chalbi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adlichalbi&show_icons=true&locale=en" alt="Adlichalbi" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adlichalbi" alt="Adlichalbi" />
+</p>
+
+### 📈 Top Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adlichalbi&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+
