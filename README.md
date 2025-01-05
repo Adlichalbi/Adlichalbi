@@ -45,11 +45,6 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42"/>
   </a>
   
-  <!-- React Native -->
-  <a href="https://reactnative.dev" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="42" height="42"/>
-  </a>
-  
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/>
