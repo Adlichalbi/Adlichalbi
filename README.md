@@ -117,9 +117,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adlichalbi&show_icons=true&locale=en" alt="Adlichalbi" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adlichalbi" alt="Adlichalbi" />
-</p>
+
 
 ### 📈 Top Languages
 <p>
